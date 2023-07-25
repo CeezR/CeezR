@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm César Forthomme</h1>
 <h3 align="center">A passionate Full-Stack Java developer based in stockholm 🇸🇪Sweden</h3>
 
-- 🔭 I’m currently working on [TechCheck]
+### 🔭 I’m currently working on [TechCheck](https://github.com/CeezR/TaskNexus)
 
-- 👨‍💻 All of my projects are available at [In Progress](In Progress)
+### 📝 I regularly Post on [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b/](https://www.linkedin.com/in/cesar-forthomme-b6348b14b/))
 
-- 📝 I regularly Post on [https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b/](https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b/)
-
-- 📫 How to reach me **forthomme.cesar@gmail.com**
+### 📫 Where to reach me
+- Email: forthomme.cesar@gmail.com
+- LinkIn: 
+- Discord: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
