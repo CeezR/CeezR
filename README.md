@@ -1,3 +1,4 @@
+![Home Page](/salt_background.jpg)
 <h1 align="center">Hi 👋, I'm César Forthomme</h1>
 <h3 align="center">A passionate Full-Stack Java developer based in stockholm 🇸🇪Sweden</h3>
 
