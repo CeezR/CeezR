@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm César Forthomme</h1>
 <h3 align="center">A passionate Full-Stack Java developer based in stockholm 🇸🇪Sweden</h3>
 
-### 🔭 I’m currently working on [TaksNexus](https://github.com/CeezR/TaskNexus)
+### 🔭 I’m currently working on [LearingPath](https://github.com/The-Brain-Train/LearningPath)
 
 ### 📝 I regularly Post on [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b/](https://www.linkedin.com/in/cesar-forthomme-b6348b14b/))
 
