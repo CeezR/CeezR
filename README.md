@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm César Forthomme</h1>
 <h3 align="center">A passionate Full-Stack Java developer based in stockholm 🇸🇪Sweden</h3>
 
-### 🔭 I’m currently working on [LearingPath](https://github.com/The-Brain-Train/LearningPath)
+### 🔭 I’m currently working on [Hermes Whisper](https://github.com/CeezR/Hermes-Whisper) & [Maria Hazelius Protfolio (Private)](https://maria-portfolio-sepia.vercel.app/)
 
-### 📝 I regularly Post on [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b/](https://www.linkedin.com/in/cesar-forthomme-b6348b14b/))
+### 📝 I regularly Post on [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-forthomme-b6348b14b)
 
 ### 📫 Where to reach me
 [![Github-Cesar](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CeezR)
